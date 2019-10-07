@@ -4,7 +4,7 @@
 
 ### Machine Learning 
 
-[Predicting Hardness Values of Materials](Project1.md)
+[Predicting Hardness Values of Materials](Project1.ipynb)
 <img src="images/Project1_Thumbnail2.png?raw=true"/>
 
 <!---
