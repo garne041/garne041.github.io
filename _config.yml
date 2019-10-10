@@ -4,9 +4,9 @@ logo: "/images/Garnett_Joyheadshot-2-circleedit1.png?raw=true" # your photo (or 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  <--- Second description 
-  <br><br>
-  --->
+  #Second description 
+  #<br><br>
+  
   <a href="https://www.linkedin.com/in/joycarleen/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
