@@ -6,6 +6,8 @@
 [Chem_calc](https://github.com/garne041/chem_calc)
 [https://pypi.org/project/chem-calc/](https://pypi.org/project/chem-calc/)
 
+---
+
 ### Machine Learning: SVM and Random Forest Classification
 [Predicting Hardness Values of Materials](https://github.com/garne041/garne041.github.io/blob/master/Project1.ipynb)
 <img src="images/Project1_Thumbnail2.png?raw=true"/>
