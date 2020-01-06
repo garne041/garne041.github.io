@@ -6,6 +6,9 @@
 [Chem_calc](https://github.com/garne041/chem_calc)
 [https://pypi.org/project/chem-calc/](https://pypi.org/project/chem-calc/)
 
+The module chem_calc calculates chemical and physical properties based on the stoichometry of a chemical compound.
+The 20+ available properties (or features) used in this package are elemental properties from the CRC Handbook of Chemistry and Physics as well as the NIST X-ray Mass Attenuation Coefficients Database.
+
 ---
 
 ### Machine Learning: SVM and Random Forest Classification
