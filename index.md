@@ -4,6 +4,7 @@
 
 ### Python Package Development: Feature Generation
 [Chem_calc](https://github.com/garne041/chem_calc)
+
 [https://pypi.org/project/chem-calc/](https://pypi.org/project/chem-calc/)
 
 The module chem_calc calculates chemical and physical properties based on the stoichometry of a chemical compound.
@@ -11,10 +12,11 @@ The 20+ available properties (or features) used in this package are elemental pr
 
 ---
 
-### Machine Learning: SVM and Random Forest Classification
-### Predicting Hardness Values of Materials
+### Machine Learning: SVM and Random Forest Classification - Predicting Hardness Values of Materials
 [Jupyter Notebook Version](https://github.com/garne041/garne041.github.io/blob/master/Project1.ipynb)
+
 [PDF Version](https://github.com/garne041/garne041.github.io/blob/master/Project1.pdf)
+
 <img src="images/Project1_Thumbnail2.png?raw=true"/>
 
 
