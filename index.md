@@ -12,7 +12,9 @@ The 20+ available properties (or features) used in this package are elemental pr
 ---
 
 ### Machine Learning: SVM and Random Forest Classification
-[Predicting Hardness Values of Materials](https://github.com/garne041/garne041.github.io/blob/master/Project1.ipynb)
+### Predicting Hardness Values of Materials
+[Jupyter Notebook Version](https://github.com/garne041/garne041.github.io/blob/master/Project1.ipynb)
+[PDF Version](https://github.com/garne041/garne041.github.io/blob/master/Project1.pdf)
 <img src="images/Project1_Thumbnail2.png?raw=true"/>
 
 
